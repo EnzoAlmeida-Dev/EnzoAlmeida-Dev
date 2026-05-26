@@ -1,11 +1,8 @@
 # 👾 Enzo Almeida
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-End!;Conheça+meu+Portfólio!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
 
-
+**`Desenvolvedor Back-End`**
 
 Olá! Me chamo Enzo ALmeida, tenho 18 anos e sou natural da Bahia. Atualmente, curso Engenharia da Computação pela Universidade **Senai CIMATEC**, mas desde os meus 9 anos de idade sou apaixonado por programação e tecnologia. Além disso, também estou atuando como trainee da Empresa Júnior **CIMATEC jr** no Núcleo de Projetos de Computação.
 
@@ -84,4 +81,4 @@ Acompanhe também meu perfil no [Linkedin](https://www.linkedin.com/in/enzoalmei
 <br>
 <br>
 <p>
-    Conheça meus repositórios!
+Conheça meus [repositórios](https://github.com/EnzoAlmeida-Dev?tab=repositories)!
