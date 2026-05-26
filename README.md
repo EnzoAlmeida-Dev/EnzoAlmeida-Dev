@@ -14,6 +14,7 @@ Acompanhe também meu perfil no [Linkedin](https://www.linkedin.com/in/enzoalmei
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/EnzoAlmeida-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+</a>
 
 ---
 
@@ -80,5 +81,5 @@ Acompanhe também meu perfil no [Linkedin](https://www.linkedin.com/in/enzoalmei
 <br>
 <br>
 <br>
-<p>
+
 Conheça meus [repositórios](https://github.com/EnzoAlmeida-Dev?tab=repositories)!
