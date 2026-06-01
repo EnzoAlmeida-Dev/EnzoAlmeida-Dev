@@ -6,14 +6,8 @@
 
 Olá! Me chamo Enzo ALmeida, tenho 18 anos e sou natural da Bahia. Atualmente, curso Engenharia da Computação pela Universidade **Senai CIMATEC**, mas desde os meus 9 anos de idade sou apaixonado por programação e tecnologia. Além disso, também estou atuando como trainee da Empresa Júnior **CIMATEC jr** no Núcleo de Projetos de Computação.
 
-Acompanhe também meu perfil no [Linkedin](https://www.linkedin.com/in/enzoalmeidadev/), onde publico mais sobre meus projetos, processos criativos e experiências na área.
-
-<a href="https://github.com/EnzoAlmeida-Dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EnzoAlmeida-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+<a href="https://www.linkedin.com/in/enzoalmeidadev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
@@ -82,4 +76,16 @@ Acompanhe também meu perfil no [Linkedin](https://www.linkedin.com/in/enzoalmei
 <br>
 <br>
 
-Conheça meus [repositórios](https://github.com/EnzoAlmeida-Dev?tab=repositories)!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" alt="Sequência de Commits" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&column=7" alt="Troféus do GitHub" />
+  </a>
+</p>
