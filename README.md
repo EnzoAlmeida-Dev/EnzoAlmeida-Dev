@@ -77,15 +77,10 @@ Olá! Me chamo Enzo ALmeida, tenho 18 anos e sou natural da Bahia. Atualmente, c
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoAlmeida-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoAlmeida-Dev&theme=dark" alt="Sequência de Commits" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" alt="Sequência de Commits" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&column=7" alt="Troféus do GitHub" />
-  </a>
+  <img src="https://github-profile-trophies.vercel.app/?username=EnzoAlmeida-Dev&theme=onedark&margin-w=15" alt="Troféus do GitHub" />
 </p>
